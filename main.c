@@ -4,6 +4,8 @@ int main(){
     int mat[SIZE][SIZE] = {0};
     prinf("fono le mes qui ma cree \n");
 
+    prinf("purquoi tu fait ca \n");
+
     print("nous somme sur un projet actuellement merci de me dire si tu a un groupe ou pas\n");
     printmatrice(mat);
     return 0;
